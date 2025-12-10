@@ -1,0 +1,5 @@
+body { font-family: Arial; background: #f9f9f9; text-align: center; }
+.box { margin: 20px auto; width: 300px; }
+input { padding: 8px; width: 200px; }
+button { padding: 8px; }
+ul { text-align: left; }
